@@ -20,8 +20,8 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 10vh;
-    padding-right: 40vw;
+    padding-top: 10px;
+    padding-left: 20px;
     text-align: center;
 }
 
