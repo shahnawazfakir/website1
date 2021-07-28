@@ -25,8 +25,8 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 10px;
-    padding-left: 20px;
+    padding-top: 40vh;
+    padding-left: -50vw;
     text-align: center;
 }
 
@@ -34,7 +34,6 @@ a{
     font-size: 1.5rem;
     padding-bottom: 10px;
     margin:0;
-    padding-righr: 50px;
 }
 
 .section-1 h2{
